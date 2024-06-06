@@ -1,0 +1,36 @@
+#front {
+    width: 920px;
+    height: 1168px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    left: 170px;
+    top: -10px;
+}
+#cara {
+    width: 700px;
+    height: 898px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    left: 280px;
+    top: 1100px;
+    mix-blend-mode: li;
+}
+#info {
+    position: fixed;
+    z-index: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    left: 20px;
+    top: -0px;
+    font-weight: 700;
+    color: blue;
+}
+#homelogo {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 563px;
+    top: -1px;
+}
